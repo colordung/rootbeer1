@@ -1,6 +1,6 @@
 The Rootbeer GPU Compiler makes it easy to use Graphics Processing Units from
 within Java.
-
+ 
 Rootbeer is more advanced than CUDA or OpenCL Java Language Bindings. With 
 bindings the developer must serialize complex graphs of objects into arrays
 of primitive types. With Rootbeer this is done automatically. Also with language
